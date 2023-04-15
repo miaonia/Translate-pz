@@ -1,0 +1,36 @@
+UI_CN = {
+    UI_4ColorBicPen_Name = "四色笔",
+    UI_4ColorBicPen_Desc = "一支可以在地图上绘画的四色笔。",
+
+    UI_waifu_zombie_Name = "二次元僵尸",
+    UI_waifu_zombie_Desc = "不要担心,它们只是饿了",
+	
+	UI_agrotsar_Name = "拖拉机 - Agrotsar",
+	UI_agrotsar_Desc = "如果你的"Tsarslib"模组发出红色警告，说明你没有安装"Tsar's Common Library"模组，这个模组可以在订阅页面右边的必须依赖物品中找到",
+	
+	UI_blkt_invtrack_Name = "清单备忘录",
+	UI_blkt_invtrack_Desc = "清单备忘录",
+	
+	UI_alwaysfavorite_Name = "始终收藏",
+	UI_alwaysfavorite_Desc = "当瓶子变成空的时候,它仍然在收藏夹里.",
+	
+	UI_gg_Name = "抗病毒药剂[联机]",
+	
+	UI_Arsenal(26)GunFighter_Name = "阿森纳 - 枪手",
+	UI_Arsenal(26)GunFighter_Desc = "最后一个公开的（停更）版本",
+		
+	UI_Arsenal(26)GunFighter[MAIN_MOD_2.0]_Name = "阿森纳 - 枪手 [核心模组2.0]",
+	UI_Arsenal(26)GunFighter[MAIN_MOD_2.0]_Desc = "枪手核心模组",
+	
+	UI_AutoCook_Name = "自动烹饪",
+	UI_AutoCook_Desc = "优化玩家花在烹饪上的时间，保持真正的模拟时间。",
+	
+	UI_AutoDrop_Name = "自动拾取",
+	UI_AutoDrop_Desc = "允许自动拾取",
+	
+	UI_AutoMechanics_Name = "自动练习技工",
+	UI_AutoMechanics_Desc = "优化了玩家在一辆车上的机械的训练时间，同时保持了真正的模拟时间。",
+
+	UI_AutoSewing_Name = "自动缝纫",
+	UI_AutoSewing_Desc = "在保持真正的模拟时间的同时，优化了玩家在定制训练上的时间。",
+}

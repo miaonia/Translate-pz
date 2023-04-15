@@ -1,0 +1,7 @@
+name=模组信息汉化
+poster=preview.png
+poster=1.png
+poster=2.png
+id=CHINAESE_Mnaisuka
+description=必须订阅"模组管理器(分支)"才能正常使用
+require=ModManager
