@@ -227,9 +227,6 @@ UI_FUMOTH_Name = "Fumo",
 UI_FUMOTH_Desc = "添加了驚人的21個Fumo模型,(作為初始版本)角色基於東方Project(由ZUN和上海愛麗絲創建),版權全部屬於他們。這只是一個我喜歡做的粉絲模組(我希望您會喜歡玩)",
 UI_Video_Game_Consoles_Name = "電子遊戲機", 
 UI_Video_Game_Consoles_Desc = "添加可玩電子遊戲機。",
-
-Claude
-應用  早上 7:15
 UI_sapphcooking_Name = "Sapph的烹飪",
 UI_sapphcooking_Desc = "添加更多烹飪武器、物品和配方。",
 UI_sapphcookingbettersorting_Name = "Sapph的烹飪更好的排序補丁",
